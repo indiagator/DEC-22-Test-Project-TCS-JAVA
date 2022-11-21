@@ -1,4 +1,4 @@
-
+package test;
 
 /**  This is another Java Class*/
 public class AnotherClass
