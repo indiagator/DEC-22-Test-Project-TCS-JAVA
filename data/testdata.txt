@@ -1,4 +1,6 @@
-We are TCS Dec Java Batch and we are Learning Java
-We are alos going to learn SQL later
-If we use all the stuff that we are learning
-We will turn out be good or great Java Developers
+In the Java programming language, all source code is first written in plain text files ending with thejava extension.
+Those source files are then compiled into .class files by the javac compiler. A .class file doesnot contain code that
+isnative to your processor; it instead contains bytecodes — the machine language of theJava Virtual Machine1 (Java VM).
+Thejava launcher tool then runs your application with an instance of the JavaVirtual Machine.
+This is coming from the Buffered Writer!
+This is coming from the Buffered Writer!
